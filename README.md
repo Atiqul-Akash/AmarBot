@@ -62,7 +62,7 @@ Then load it in bot.py:
 import os
 TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 ```
-###4. Run the bot
+###4 . Run the bot
 ```bash
 python bot.py
 ```
