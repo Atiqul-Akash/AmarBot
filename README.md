@@ -42,11 +42,11 @@ AmarBot/
 git clone https://github.com/yourusername/AmarBot.git
 cd AmarBot
 ```
-###2. Install dependencies
+### 2. Install dependencies
 ```bash
  pip install -r requirements.txt
 ```
-###3. Set your bot token
+### 3. Set your bot token
 Option 1 (unsafe):
 Edit bot.py and paste your token directly.
 
@@ -66,7 +66,7 @@ TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 python bot.py
 ```
 
-##🧠 Powered By
+## 🧠 Powered By
 
 llama-cpp-python — Local LLM backend
 
@@ -94,16 +94,16 @@ Python 3.10+
  Multi-language support
 
 
-##🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the project and submit a pull request. For major changes, please open an issue first.
 
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License — do what you want with it, just give credit.
 
 
-##🌐 Creator
+## 🌐 Creator
 Made with ❤️ by Atiqul Islam Akash
 📍 Bangladesh
 GitHub: @Atiqul-Akash
