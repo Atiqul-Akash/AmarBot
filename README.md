@@ -78,21 +78,21 @@ Python 3.10+
 
 ## 🛠️ Roadmap
 
- AI Chat via /chat
+ ✅ AI Chat via /chat
 
- Latency check via /ping
+ ✅ Latency check via /ping
 
- Reset user chat memory via /resetchat
+ ✅ Reset user chat memory via /resetchat
 
- Conversation summarization via /summary
+ ✅ Conversation summarization via /summary
 
- Moderation commands (ban, kick, etc.)
+ 📝 Moderation commands (ban, kick, etc.)
 
- Fun mini-games
+ 📝 Fun mini-games
 
- Web dashboard (future)
+ 📝 Web dashboard (future)
 
- Multi-language support
+ 📝 Multi-language support
 
 
 ## 🤝 Contributing
