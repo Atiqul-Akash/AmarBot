@@ -40,7 +40,7 @@ AmarBot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AmarBot.git
+git clone https://github.com/Atiqul-Akash/AmarBot.git
 cd AmarBot
 ```
 ### 2. Install dependencies
