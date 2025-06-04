@@ -16,6 +16,7 @@
 ---
 
 ## 📁 Project Structure
+```markdown
 AmarBot/
 │
 ├── bot.py # Main bot launcher
@@ -33,7 +34,7 @@ AmarBot/
 ├── requirements.txt # List of dependencies
 ├── .env # (Optional) Store bot token securely
 └── README.md # This file
-
+```
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
