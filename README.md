@@ -92,6 +92,7 @@ Python 3.10+
  Multi-language support
 
 🤝 Contributing
+
 Contributions are welcome! Feel free to fork the project and submit a pull request. For major changes, please open an issue first.
 
 📄 License
