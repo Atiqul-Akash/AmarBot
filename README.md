@@ -76,7 +76,7 @@ Discord.py v2 (Slash Commands)
 Python 3.10+
 
 
-##🛠️ Roadmap
+## 🛠️ Roadmap
 
  AI Chat via /chat
 
