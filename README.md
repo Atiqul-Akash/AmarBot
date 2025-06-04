@@ -19,19 +19,19 @@
 AmarBot/
 │
 ├── bot.py # Main bot launcher
-├── llama_setup.py # LLM setup logic
+├── llama_setup.py # LLM setup logic (using llama-cpp)
 │
-├── commands/ # Slash command modules
-│ ├── init.py # Loads all command modules
-│ ├── chat.py # /chat command with memory
-│ ├── ping.py # /ping command
-│ ├── reset_chat.py # /resetchat command
-│ └── summary.py # /summary command
+├── commands/ # All slash command modules
+│ ├── init.py # Automatically loads all commands
+│ ├── chat.py # /chat - Talk with AI assistant
+│ ├── ping.py # /ping - Check bot latency
+│ ├── reset_chat.py # /resetchat - Reset user memory
+│ └── summary.py # /summary - Summarize past chat
 │
-├── chat_memory/ # Stores user memory in JSON files
+├── chat_memory/ # Folder where user memory (JSON) is stored
 │
-├── .env (optional) # For storing secrets like bot token
-├── requirements.txt # Python dependencies
+├── requirements.txt # List of dependencies
+├── .env # (Optional) Store bot token securely
 └── README.md # This file
 
 ## 🚀 Getting Started
