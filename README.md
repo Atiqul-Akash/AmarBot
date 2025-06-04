@@ -66,7 +66,8 @@ TOKEN = os.getenv("DISCORD_BOT_TOKEN")
 python bot.py
 ```
 
-🧠 Powered By
+##🧠 Powered By
+
 llama-cpp-python — Local LLM backend
 
 Discord.py v2 (Slash Commands)
@@ -74,7 +75,8 @@ Discord.py v2 (Slash Commands)
 Python 3.10+
 
 
-🛠️ Roadmap
+##🛠️ Roadmap
+
  AI Chat via /chat
 
  Latency check via /ping
@@ -91,14 +93,17 @@ Python 3.10+
 
  Multi-language support
 
-🤝 Contributing
+
+##🤝 Contributing
 
 Contributions are welcome! Feel free to fork the project and submit a pull request. For major changes, please open an issue first.
 
-📄 License
+
+##📄 License
 This project is licensed under the MIT License — do what you want with it, just give credit.
 
-🌐 Creator
+
+##🌐 Creator
 Made with ❤️ by Atiqul Islam Akash
 📍 Bangladesh
 GitHub: @Atiqul-Akash
